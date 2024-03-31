@@ -1,0 +1,5 @@
+{
+    "masmtasm.ASM.toolspath": "",
+    "masmtasm.ASM.emulator": "dosbox-x",
+    "masmtasm.ASM.mode": "workspace"
+}
